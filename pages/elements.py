@@ -1,6 +1,3 @@
-#!/usr/bin/python3
-# -*- encoding=utf8 -*-
-
 import time
 import random
 from termcolor import colored

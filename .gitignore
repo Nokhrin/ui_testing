@@ -1,8 +1,6 @@
+drivers/*
+.venv
 __pycache__
 *__pycache__*
-.venv
 *.log
-drivers/*
-!drivers
-!screenshots/
-screenshots/*
+*.png

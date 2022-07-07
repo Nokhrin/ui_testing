@@ -8,3 +8,8 @@
 
 
 Для запуска в headless режиме раскомментировать строку chrome_options.add_argument('--headless') в модуле conftest.
+!!! работа в headless режиме не отлажена
+
+
+python -m pytest -s --driver Chrome --driver-path drivers/chromedriver
+python -m pytest -s --driver Firefox --driver-path drivers/geckodriver
