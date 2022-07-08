@@ -1,6 +1,4 @@
 # логирование
-LOG_PATH = 'logs/investing_test.log'
-LOG_FORMAT = '%(name)s - %(levelname)s - %(message)s'
 SCREENSHOTS_DIRECTORY = 'screenshots'
 
 
